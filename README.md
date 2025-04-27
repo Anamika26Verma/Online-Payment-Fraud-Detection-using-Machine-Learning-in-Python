@@ -1,2 +1,4 @@
 # Online-Payment-Fraud-Detection-using-Machine-Learning-in-Python
 The Online Payment Fraud Detection project focuses on building a machine learning model to identify fraudulent transactions in online payments. Using Python and libraries like pandas, scikit-learn, matplotlib, and seaborn, the dataset was cleaned, explored, and analyzed to uncover key patterns. Logistic Regression and Random Forest classifiers were implemented to predict fraud with high accuracy. Model performance was evaluated using metrics such as confusion matrix, precision, recall, and F1-score. The project also involved visualizing transaction trends to better understand fraudulent behavior. This solution helps in minimizing financial losses and enhancing the security of digital payment systems.
+
+Download dataset used from here: https://drive.google.com/file/d/127JqP3WGjBVihR-ZcUR86T3wwy3_g63v/view
